@@ -13,6 +13,7 @@ window.addEventListener('DOMContentLoaded', () => {
     imgDiv.append(img);
     imgDiv.style.display = "flex";
     img.style.with = "300px";
+    imgDiv.style.flexWrap="nowrap" 
     }
   });
 
