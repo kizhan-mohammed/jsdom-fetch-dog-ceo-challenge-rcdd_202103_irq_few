@@ -14,7 +14,7 @@ window.addEventListener('DOMContentLoaded', () => {
     imgDiv.style.display = "flex";
     imgDiv.style.height = "600px";
     imgDiv.style.flexWrap="nowrap";
-    imgDiv.style.flexD
+    imgDiv.style.flexDirection = "column"
     
     }
   });
