@@ -14,8 +14,7 @@ window.addEventListener('DOMContentLoaded', () => {
     imgDiv.style.display = "flex";
     imgDiv.style.height = "%100";
     imgDiv.style.flexWrap="nowrap" 
-    img.style.display = "flex";
-    img.style.height = "%100";
+    img.style.display = "flex"
     img.style.flexWrap="nowrap" 
     }
   });
