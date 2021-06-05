@@ -12,7 +12,7 @@ window.addEventListener('DOMContentLoaded', () => {
     let imgDiv = document.querySelector("#dog-image-container"); 
     imgDiv.append(img);
     imgDiv.style.display = "flex";
-    img.style.with = "300px";
+    img.style.height = "%100";
     imgDiv.style.flexWrap="nowrap" 
     }
   });
