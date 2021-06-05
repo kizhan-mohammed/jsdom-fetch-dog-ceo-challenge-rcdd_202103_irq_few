@@ -11,8 +11,8 @@ window.addEventListener('DOMContentLoaded', () => {
     img.setAttribute("src",json.message[i]);
     let imgDiv = document.querySelector("#dog-image-container"); 
     imgDiv.append(img);
-    imgDiv.style.display = "flex"
-    img.style.with = "300px"
+    imgDiv.style.display = "flex";
+    img.style.with = "300px";
     }
   });
 
